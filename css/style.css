@@ -1,0 +1,45 @@
+/*Universal*/
+html {
+  font-size: 16px;
+  font-family: 'Dekko', cursive;
+  text-align: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+h1 {
+  font-size: 3rem;
+  padding: 1rem;
+}
+h2 {
+  font-size: 2rem;
+  padding: 1rem;
+}
+img {
+  width: 50%;
+}
+p {
+  font-size: 1.2rem;
+}
+a {
+  padding: 1rem;
+}
+ol li {
+  font-size: 1.2rem;
+  list-style-type: note;
+}
+ul li {
+  font-size: 1.2rem;
+  list-style-type: decimal;
+}
+
+/*Media Inquries*/
+@media only screen and (max-width: 600px) {
+  img {
+    width: 90%;
+  }
+}
