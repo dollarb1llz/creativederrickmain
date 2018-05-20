@@ -21,15 +21,23 @@
     <li>Channel Art</li>
     <li>Videos</li>
     <li>Logos</li>
-    <li>Emotes</li>
+    <li>Thumbnails</li>
     <li>Videos</li>
   </ul>
+  <img src="./img/42918THUMB.jpg" alt="Thumbnail" />
+  <img src="./img/detoxshots.jpg" alt="Thumbnail" />
+  <img src="./img/THUMB4_17_18.jpg" alt="thumbnail" />
+  <div class="triple">
+    <img src="./img/MahGurl28.png" alt="twitch emote" />
+    <img src="./img/MahGurl56.png" alt="twitch emote" />
+    <img src="./img/MahGurl112.png" alt="twitch emote" />
+  </div>
   <!--Tools I use-->
   <h2>Tools I use</h2>
   <img src="./img/tools.jpg" alt="Photoshop Premiere pro" />
   <!--Costs-->
   <h2>Costs</h2>
-  <p>I am not currently charging anything for my services.</p>
+  <p class="red">I am currently not charging anything for my services.</p>
   <!--About me-->
   <h2>About Me</h2>
   <img src="./img/me.jpg" alt="Me" />

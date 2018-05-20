@@ -21,6 +21,7 @@ h2 {
 }
 img {
   width: 50%;
+  padding: 1rem;
 }
 p {
   font-size: 1.2rem;
@@ -35,6 +36,17 @@ ol li {
 ul li {
   font-size: 1.2rem;
   list-style-type: decimal;
+}
+
+/*Div Classes*/
+.triple {
+  display: flex;
+  align-items: center;
+}
+
+/*colors*/
+.red {
+  color: red;
 }
 
 /*Media Inquries*/
